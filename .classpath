@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/EXjars/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/EXjars/httpcore-osgi-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/EXjars/commons-logging-1.1.1-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/EXjars/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/EXjars/httpmime-4.1-beta1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
